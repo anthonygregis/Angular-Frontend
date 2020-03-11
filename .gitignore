@@ -1,0 +1,14 @@
+angular.json
+browserslist
+karma.conf.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+tslint.json
+src/
+node_modules/
+e2e/
+README.md
+package.json
+package-lock.json
+.editorconfig
